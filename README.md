@@ -1,3 +1,8 @@
+# Jh note
+
+moved scripts to root.
+
+
 # Book Cover Dataset
 
 This dataset contains 207,572 books from the Amazon.com, Inc. marketplace.
